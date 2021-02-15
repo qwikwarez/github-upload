@@ -1,0 +1,4 @@
+Slug			Problem Name
+=======			================
+48n59a			Printing in Series
+
